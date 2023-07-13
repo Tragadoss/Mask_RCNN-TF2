@@ -22,7 +22,7 @@ import keras.backend as K
 import keras.layers as KL
 import keras.engine as KE
 import keras.models as KM
-import utils
+from mrcnn import utils
 
 ############################################################
 #  Utility Functions
